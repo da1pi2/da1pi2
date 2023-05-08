@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/da1pi2/da1pi2/blob/main/header.png)
 
-- 👀 I’m interested in AI, Cybersecurity and Technology
+- 👀 I’m interested in AI, Cybersecurity and Technology 
 - 🌱 I’m currently learning basics for computer engineering
 - 📫 How to reach me by email danieldpipitone@gmail.com
 
