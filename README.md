@@ -1,9 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://github.com/da1pi2/da1pi2)&left_color=blue&right_color=green)
-
 ![Header](https://github.com/da1pi2/da1pi2/blob/main/header.png)
 
 - 👀 I’m interested in AI, Cybersecurity and Technology 
-- 🌱 I’m currently learning basics for computer engineering
+- 🌱 Recent graduate in Computer Engineering at Unipa
 - 📫 How to reach me by email danieldpipitone@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da1pi2&show_icons=true&theme=radical)
