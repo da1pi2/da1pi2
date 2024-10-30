@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Bachelor's Degree in Computer Engineering @UniPa
+
 Enrolled in Artificial Intelligence & Data Engineer course @UniPi
 ------------------------------------------------
 
