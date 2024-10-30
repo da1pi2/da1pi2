@@ -2,11 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Bachelor's Degree in Computer Engineering @UniPa
+Enrolled in Artificial Intelligence & Data Engineer course @UniPi
 ------------------------------------------------
 
-I’m interested in AI, Cybersecurity and Technology
+I’m interested in AI
 
-* 🌍  I'm based in Marsala(Sicily / Italy)
+* 🌍  I'm from in Marsala(Sicily / Italy) but now i live in Pisa for my studies
 * ✉️  You can contact me at [danieldpipitone@gmail.com](mailto:danieldpipitone@gmail.com)
 * 🧠  I'm studying Artifical Intelligence and Data Engineer at University of Pisa
 * 🤝  I'm open to collaborating on first contribution on github
