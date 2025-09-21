@@ -72,20 +72,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=da1pi2&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da1pi2&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=da1pi2&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=da1pi2&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
-
-<div align="center">
-  <p>⭐ If you like what you see, feel free to star my repositories!</p>
-  
-  **Thank you for visiting my profile! Let's connect and build something amazing together! 🌟**
 </div>
