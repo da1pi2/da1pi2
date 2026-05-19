@@ -66,14 +66,3 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldpipitone@gmail.com)
 
 </div>
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=da1pi2&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=da1pi2&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
